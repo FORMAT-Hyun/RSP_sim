@@ -23,8 +23,31 @@
 
 ## 실행 방법
 
-다운로드 링크는 Release에 있습니다
+다운로드 링크는 **Release**에 있습니다!
 
-## 라이선스
+# RSP Sim - Rock-Paper-Scissors Simulator
 
-라이선스는 MIT 라이선스가 적용됩니다
+A simple **Rock-Paper-Scissors agent simulation**.  
+Multiple Rock, Paper, and Scissors agents move around the screen and change their type based on the rules of Rock-Paper-Scissors whenever they collide.
+
+## How It Works
+
+- Each agent on the screen is either **Rock (R)**, **Scissors (S)**, or **Paper (P)**.
+- Agents move freely and bounce off the screen edges.
+- When two agents collide, the loser is converted into the winner’s type:
+  - Rock (R) vs Scissors (S) → Scissors becomes Rock
+  - Scissors (S) vs Paper (P) → Paper becomes Scissors
+  - Paper (P) vs Rock (R) → Rock becomes Paper
+- Over time, you can observe one type dominating or a dynamic balance emerging.
+
+## How to Play
+
+1. Start from the **Title Screen**
+2. **Enter Population**  
+   - Use the number pad to input the desired number of agents (e.g. 50, 100, 200)
+3. Press the **Play** button to start the simulation
+4. Watch the agents move and convert each other
+
+## How to Run
+
+The download link is available in the **Releases**.
