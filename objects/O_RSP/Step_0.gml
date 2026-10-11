@@ -1,7 +1,7 @@
 if 0 >= x{direction = random_range(-90, 90)}
-else if 524 < x{direction = random_range(90, 270)}
+else if 508 < x{direction = random_range(90, 270)}
 else if 0 >= y{direction = random_range(180, 360)}
-else if 944 < y{direction = random_range(0, 180)}
+else if 928 < y{direction = random_range(0, 180)}
 
 if place_meeting(x, y, O_RSP){
     var RSPid = instance_place(x, y, O_RSP)
