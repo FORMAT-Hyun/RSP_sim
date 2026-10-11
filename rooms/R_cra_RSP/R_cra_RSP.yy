@@ -7,14 +7,12 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_2CB3CABC","path":"rooms/R_cra_RSP/R_cra_RSP.yy",},
-    {"name":"inst_659946B4","path":"rooms/R_cra_RSP/R_cra_RSP.yy",},
     {"name":"inst_5A1EE723","path":"rooms/R_cra_RSP/R_cra_RSP.yy",},
     {"name":"inst_7D6BA608","path":"rooms/R_cra_RSP/R_cra_RSP.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_659946B4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_659946B4","objectId":{"name":"O_play","path":"objects/O_play/O_play.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":190.0,"y":838.0,},
         {"$GMRInstance":"v4","%Name":"inst_5A1EE723","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5A1EE723","objectId":{"name":"O_c_num","path":"objects/O_c_num/O_c_num.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":247.0,"y":298.0,},
         {"$GMRInstance":"v4","%Name":"inst_2CB3CABC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2CB3CABC","objectId":{"name":"O_black2","path":"objects/O_black2/O_black2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":9.0,"scaleY":15.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v4","%Name":"inst_7D6BA608","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D6BA608","objectId":{"name":"O_black","path":"objects/O_black/O_black.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":9.0,"scaleY":15.0,"x":-576.0,"y":0.0,},

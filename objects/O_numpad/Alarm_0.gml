@@ -1,0 +1,1 @@
+O_black.black = 1;

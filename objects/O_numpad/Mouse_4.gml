@@ -30,6 +30,14 @@ switch (image_index) {
         global.population += "9";
         break;
     case 9: 
-        global.population += "0";
+        var first_char = string_char_at(global.population, 1); 
+        if !(first_char == "0" || first_char == "" || first_char == " "){global.population += "0";}
+        break; 
+    case 10: 
+        var delstr = string_length(global.population);
+        global.population = string_delete(global.population, delstr, 1);
+        break;
+    case 11: 
+        alarm[0] = 17;
         break;
 }
