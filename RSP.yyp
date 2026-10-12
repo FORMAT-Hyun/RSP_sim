@@ -29,6 +29,7 @@
   "resources":[
     {"id":{"name":"Fo_title","path":"fonts/Fo_title/Fo_title.yy",},},
     {"id":{"name":"Fo_ui","path":"fonts/Fo_ui/Fo_ui.yy",},},
+    {"id":{"name":"Fo_warning","path":"fonts/Fo_warning/Fo_warning.yy",},},
     {"id":{"name":"O_black","path":"objects/O_black/O_black.yy",},},
     {"id":{"name":"O_black2","path":"objects/O_black2/O_black2.yy",},},
     {"id":{"name":"O_c_num","path":"objects/O_c_num/O_c_num.yy",},},
