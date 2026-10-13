@@ -17,9 +17,7 @@
     {"$GMFolder":"","%Name":"spr","folderPath":"folders/spr.yy","name":"spr","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[
-    {"$GMIncludedFile":"","%Name":"Galmuri11-Bold.ttf","CopyToMask":-1,"filePath":"datafiles","name":"Galmuri11-Bold.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-  ],
+  "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
