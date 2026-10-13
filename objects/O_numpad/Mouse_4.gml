@@ -46,7 +46,7 @@ if global.button_cool == 0{
                 show_debug_message("케이스 1번")
             }
             else if real(global.population) > 5001 {  
-                global.population =  "5001 이하의 숫자를 입력하세요"
+                global.population =  "5000 이하의 숫자를 입력하세요"
                 global.button_cool = 1;
                 alarm[1] = 90; 
                 show_debug_message("케이스 2번")
