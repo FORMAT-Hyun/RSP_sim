@@ -43,6 +43,14 @@ if global.button_cool == 0{
                 global.population =  "3 이상의 숫자를 입력하세요"
                 global.button_cool = 1;
                 alarm[1] = 90; 
+                show_debug_message("케이스 1번")
+            }
+            else if real(global.population) > 5001 {  
+                global.population =  "5001 이하의 숫자를 입력하세요"
+                global.button_cool = 1;
+                alarm[1] = 90; 
+                show_debug_message("케이스 2번")
+                
             }
             else {alarm[0] = 17;}
             break;
