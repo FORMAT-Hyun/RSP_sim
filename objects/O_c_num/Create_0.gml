@@ -14,3 +14,5 @@ while !(838 < cra_Y){
     }
     cra_Y += 146;
 } 
+global.pause = 0;
+global.population = "";

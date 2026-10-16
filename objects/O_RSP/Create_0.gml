@@ -1,4 +1,3 @@
-speed = 4;
 direction = random(360);
 RSP = choose("R", "S", "P")
 image_speed = 0;
